@@ -47,14 +47,7 @@
 ### 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/oualid-agourd-1a4898240/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
----
 
-### 🏆 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oualidagourd&show_icons=true&theme=radical" alt="Oualid's GitHub Stats" />
-</p>
-
----
 
 ### 🤝 Support Me
 If you like my work and want to support me:
